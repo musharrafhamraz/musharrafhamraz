@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musharrafhamraz" alt="musharrafhamraz" /></a> </p>
 
-- 🔭 I’m currently working on [GBHires](https://github.com/musharrafhamraz/Job-Portal-GB)
+- 🔭 I’m currently working at [BeeNeural](https://beeneural.com/)
 
 - 🌱 I’m currently learning **Machine Learning and Computer Vision**
 
