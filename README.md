@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Musharraf Hamraz</h1>
 <h3 align="center">A passionate Mobile App Developer and Computer Vision Engineer</h3>
-<img src="https://chriskirby.net/content/images/2024/02/AICodingAssistant.png"/>
+<img src="https://chriskirby.net/content/images/2024/02/AICodingAssistant.png" height=250 width=250/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musharrafhamraz&label=Profile%20views&color=0e75b6&style=flat" alt="musharrafhamraz" /> </p>
 
