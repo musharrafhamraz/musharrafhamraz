@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Musharraf Hamraz</h1>
 <h3 align="center">A passionate Mobile App Developer and Computer Vision Engineer</h3>
-<img src="https://chriskirby.net/content/images/2024/02/AICodingAssistant.png" height=500 width=500 display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;/>
+<img 
+    src="https://chriskirby.net/content/images/2024/02/AICodingAssistant.png" 
+    height="500" 
+    width="500" 
+    style="display: block; margin-left: auto; margin-right: auto; width: 50%;" 
+    alt="AI Coding Assistant"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musharrafhamraz&label=Profile%20views&color=0e75b6&style=flat" alt="musharrafhamraz" /> </p>
 
