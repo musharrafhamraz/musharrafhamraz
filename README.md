@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working at [BeeNeural.AI](https://beeneural.com/)
 
-- 🌱 I’m currently learning **Machine Learning and Computer Vision**
+- 🌱 I’m currently learning **Machine Learning and Generative AI**
 
-- 💬 Ask me about **Flutter, Computer Vision**
+- 💬 Ask me about **Flutter, Agentic AI**
 
 - 📫 How to reach me **musharrafhamraz02@gmail.com**
 
-- ⚡ Fun fact **I do not code myself**
+- ⚡ Fun fact **I quit computer vision because it started competing with my vision and mine was losing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
