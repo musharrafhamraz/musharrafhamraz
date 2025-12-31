@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musharrafhamraz&label=Profile%20views&color=0e75b6&style=flat" alt="musharrafhamraz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=musharrafhamraz" alt="musharrafhamraz" /></a> </p>
-
 - 🔭 I’m currently working at **BeeNeural.ai**
 
 - 🌱 I’m currently learning **Gen AI and Agentic AI**
