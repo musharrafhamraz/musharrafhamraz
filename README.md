@@ -4,11 +4,36 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musharrafhamraz&label=Profile%20views&color=0e75b6&style=flat" alt="musharrafhamraz" /> </p>
 <img src="https://images.presentationgo.com/2025/04/developer-coding-desk.jpg" alt="Image">
 
-<h3>Projects Worked On</h3>
+<h3>Current Project</h3>
   <ul>
-    <!-- Keep your previous ones here, or add real ones when you have repo links -->
-    <li><strong><a href="https://github.com/musharrafhamraz/some-repo" target="_blank" rel="noopener">Project Title</a></strong> – Short one-line description here.</li>
-    <!-- ... more projects ... -->
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/agentic-research-workflow" target="_blank" rel="noopener">Agentic Literature & Experiment Planner</a></strong> – Agentic workflow with LangGraph + Groq for literature review, hypothesis generation, and experiment planning.
+    </li>
+  </ul>
+
+  <h3>Projects Worked On</h3>
+  <ul>
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/dtreaty-plant-disease" target="_blank" rel="noopener">Dtreaty – Plant Disease Diagnosis</a></strong> – Flutter app using AI image analysis to detect plant diseases, suggest treatments, and log GPS data.
+    </li>
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/ai-linkedin-automator" target="_blank" rel="noopener">AI LinkedIn Content Automation</a></strong> – CrewAI + Groq-powered system to research trends, generate posts/visuals, and auto-publish on LinkedIn.
+    </li>
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/vidwise-youtube-agent" target="_blank" rel="noopener">VidWise – YouTube Video Agent</a></strong> – LangChain agent for YouTube video summarization, audio extraction, and question answering via RAG.
+    </li>
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/sitesage-web-qa" target="_blank" rel="noopener">SiteSage – Contextual Web QA</a></strong> – Flask + LangChain RAG agent for natural language Q&A over any website content.
+    </li>
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/legal-demand-letter-ai" target="_blank" rel="noopener">AI Legal Demand Letter Generator</a></strong> – OCR + LLM system to extract data from legal PDFs and auto-generate formatted demand letters.
+    </li>
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/facebook-content-automation" target="_blank" rel="noopener">Facebook Content Automation</a></strong> – CrewAI + LLaMA multi-agent platform to create, optimize, and publish content via Facebook Graph API.
+    </li>
+    <li>
+      <strong><a href="https://github.com/YOUR_USERNAME/instagram-agent-engine" target="_blank" rel="noopener">Autonomous Instagram Content Engine</a></strong> – LangGraph multi-agent system for trend research, caption/hashtag generation, and Instagram publishing.
+    </li>
   </ul>
 
 - 🔭 I’m currently working at **BeeNeural.ai**
