@@ -4,13 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musharrafhamraz&label=Profile%20views&color=0e75b6&style=flat" alt="musharrafhamraz" /> </p>
 <img src="https://images.presentationgo.com/2025/04/developer-coding-desk.jpg" alt="Image">
 
-<h3>Current Project</h3>
+<h3>Projects Worked On</h3>
   <ul>
-    <li>
-      <strong><a href="https://github.com/YOUR_USERNAME/YOUR_CURRENT_REPO" target="_blank" rel="noopener">Multi-Agent Research Assistant</a></strong><br>
-      Building an agentic workflow with LangGraph + Groq + multiple specialized agents for literature review, hypothesis generation and experiment planning.
-    </li>
-    <!-- Add more current projects here if needed -->
+    <!-- Keep your previous ones here, or add real ones when you have repo links -->
+    <li><strong><a href="https://github.com/musharrafhamraz/some-repo" target="_blank" rel="noopener">Project Title</a></strong> – Short one-line description here.</li>
+    <!-- ... more projects ... -->
   </ul>
 
 - 🔭 I’m currently working at **BeeNeural.ai**
