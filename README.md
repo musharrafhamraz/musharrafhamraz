@@ -23,6 +23,14 @@
 <h3>Projects Worked On</h3>
 <ul>
   <li>
+    <strong>🧠 <a href="https://github.com/musharrafhamraz/Self-Improving-Agent" target="_blank" rel="noopener">Self-Improving AI Agent</a></strong> – 
+    A production-ready self-improving AI agent system featuring a dual-loop architecture that continuously learns and adapts. The agent iteratively generates,         critiques, and improves outputs while building a knowledge base of lessons for future tasks.
+  </li>
+  <li>
+    <strong>🤖 <a href="https://github.com/musharrafhamraz/Job-Description-Agent/tree/main/langgraph_agent" target="_blank" rel="noopener">AI-Powered CV Screening Agent</a></strong> – 
+    An intelligent multi-agent system built with LangGraph and Groq that automates the CV screening process. This system extracts candidate information, evaluates     qualifications against job requirements, and generates comprehensive hiring reports.
+  </li>
+  <li>
     <strong>🌱 <a href="https://github.com/musharrafhamraz/FYP_FLutter" target="_blank" rel="noopener">Dtreaty – Plant Disease Diagnosis</a></strong> – 
     Flutter app using AI image analysis to detect plant diseases, suggest treatments, and log GPS data.
   </li>
